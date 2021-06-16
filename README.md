@@ -1,4 +1,4 @@
-# React Day 3 Assignment (DO NOT COPY THE CODE and Submit the assignment)
+# React Day 4 Assignment Utilizing Redux Saga (DO NOT COPY THE CODE and Submit the assignment)
 
 ### Reference only  Github repo /Project folder shared with Evaluvator 
 
